@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1187 1188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.815219,0,0,0.815219,19.1481,97.8332)">
+        <g id="logo">
+            <g transform="matrix(33.8928,0,0,33.8928,-15699.5,-30691.6)">
+                <g transform="matrix(12,0,0,12,503.864,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(177,132,255);">Genes</text>
+            </g>
+            <g transform="matrix(10.6143,0,0,10.6143,-3889.51,-8821.67)">
+                <g transform="matrix(12,0,0,12,496.34,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(177,132,255);">.com</text>
+            </g>
+            <g transform="matrix(33.2478,0,0,33.2478,-15400.3,-30429.3)">
+                <g transform="matrix(12,0,0,12,504.579,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(177,132,255);">MEME</text>
+            </g>
+            <g transform="matrix(33.8928,0,0,33.8928,-15692.1,-30689.1)">
+                <g transform="matrix(12,0,0,12,503.864,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(236,233,255);">Genes</text>
+            </g>
+            <g transform="matrix(10.6143,0,0,10.6143,-3882.15,-8819.22)">
+                <g transform="matrix(12,0,0,12,496.34,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(236,233,255);">.com</text>
+            </g>
+            <g transform="matrix(33.2478,0,0,33.2478,-15392.9,-30426.9)">
+                <g transform="matrix(12,0,0,12,504.579,933.419)">
+                </g>
+                <text x="463.587px" y="933.419px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:rgb(236,233,255);">MEME</text>
+            </g>
+        </g>
+    </g>
+</svg>
